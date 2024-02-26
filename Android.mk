@@ -1,11 +1,11 @@
 LOCAL_PATH := $(my-dir)
 ################## Start of AOSPHost target ##################
 include $(CLEAR_VARS)
-LOCAL_MODULE := CarDABZ
+LOCAL_MODULE := SygicNavigation
 LOCAL_LICENSE_KINDS := legacy_notice
 LOCAL_LICENSE_CONDITIONS := notice
 LOCAL_MODULE_OWNER := google
-LOCAL_SRC_FILES := dab-z-player-fur-dab-dab-usb-adapter.apk
+LOCAL_SRC_FILES := sygic-truck-gps-navigation.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
